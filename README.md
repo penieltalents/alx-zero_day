@@ -1,1 +1,1 @@
-My first readme
+some_text_for_this_readme
